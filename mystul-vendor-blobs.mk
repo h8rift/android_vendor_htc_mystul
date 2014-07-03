@@ -101,7 +101,7 @@ PRODUCT_COPY_FILES += \
   vendor/htc/mystul/proprietary/lib/libmmparser.so:system/lib/libmmparser.so \
   vendor/htc/mystul/proprietary/lib/libmmparser_divxdrmlib.so:system/lib/libmmparser_divxdrmlib.so \
   vendor/htc/mystul/proprietary/lib/libmm-color-convertor.so:system/lib/libmm-color-convertor.so \
-  vendor/htc/mystul/proprietary/lib/libmmcamera_frameproc.so:system/lib/libmmparser_divxdrmlib.so \
+  vendor/htc/mystul/proprietary/lib/libmmcamera_frameproc.so:system/lib/libmmcamera_frameproc.so \
   vendor/htc/mystul/proprietary/lib/libmmcamera_rawchipproc.so:system/lib/libmmcamera_rawchipproc.so \
   vendor/htc/mystul/proprietary/lib/libmmipl.so:system/lib/libmmipl.so \
   vendor/htc/mystul/proprietary/lib/libmmparser_divxdrmlib.so:system/lib/libmmparser_divxdrmlib.so \
